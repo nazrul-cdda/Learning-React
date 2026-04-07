@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "Egg",
+    "price": 29.99,
+    "image": "./images/egg.png",
+    "amount": 0
+  },
+  {
+    "id": 1,
+    "name": "Dinosaur",
+    "price": 24.99,
+    "image": "./images/dino.png",
+    "amount": 0
+  },
+  {
+    "id": 2,
+    "name": "Unicorn",
+    "price": 27.99,
+    "image": "./images/unicorn.png",
+    "amount": 0
+  }
+]
